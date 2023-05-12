@@ -1,4 +1,6 @@
 # 💫 About Me:
+> Hello, I am Fateme Jadidi 
+> I try to be a good programmer
 🔭  I’m interested in backend<br>🌱 I’m currently learning GO<br>💬 How to reach me : fjadidi2001@gmail.com<br>
 
 
