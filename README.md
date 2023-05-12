@@ -18,7 +18,7 @@
 <br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fjadidi2001&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=fjadidi2001&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=3)
 </div>
 ---
 
