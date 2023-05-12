@@ -1,11 +1,14 @@
 # 💫 About Me:
 > Hello, I am Fateme Jadidi <br>
 I try to be a good programmer<br>
-🔭  I’m interested in backend<br>🌱 I’m currently learning GO<br>💬 How to reach me : fjadidi2001@gmail.com<br>
+🔭  I’m interested in backend<br>
+🌱 I’m currently learning GO<br>
+💬 How to reach me : fjadidi2001@gmail.com<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fateme-jadidi2001) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@fjadidi2001) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fateme-jadidi2001)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@fjadidi2001) 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
