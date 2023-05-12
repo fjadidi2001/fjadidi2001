@@ -1,7 +1,7 @@
 # 💫 About Me:
 > Hello, I am Fateme Jadidi <br>
 I try to be a good programmer(and sometimes you try but you fail)<br>
-![failure quotes]()
+![failure quotes](Graphic-for-Failure-Qootes.png)
 
 🔭  I’m interested in backend<br>
 🌱 I’m currently learning GO<br>
