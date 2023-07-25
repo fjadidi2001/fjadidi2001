@@ -19,7 +19,8 @@ func main() {
 	}
 ```
 
-
+<br>
+![frst gif](1md.gif)
 
 
 ## 🌐 Socials:
