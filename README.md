@@ -5,7 +5,19 @@
 <br>  Explore my repositories to see my clean and efficient coding style. **Let's connect and build something amazing together!**
 
 
-
+```
+type UserProfile struct {
+	Name       string
+	Email      string
+	LinkedIn   string
+}
+func main() {
+	user := UserProfile{
+		Name:     "Fateme Jadidi",
+		Email:    "fjadidi2001@gmail.com",
+		LinkedIn: "https://www.linkedin.com/in/fateme-jadidi2001/",
+	}
+```
 
 
 
