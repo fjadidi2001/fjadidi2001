@@ -1,5 +1,7 @@
 # 💫 About Me:
->🔭 Welcome to my GitHub page! <br> I'm a dynamic backend developer with a foundation in computer science, passionate about Django and Go. <br> Explore my repositories to see my clean and efficient coding style. **Let's connect and build something amazing together!**
+>🔭 Welcome to my GitHub page!
+<br> I'm a dynamic backend developer with a foundation in computer science, passionate about Django and Go.
+<br> Explore my repositories to see my clean and efficient coding style. **Let's connect and build something amazing together!**
 
 
 
