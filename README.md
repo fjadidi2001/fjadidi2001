@@ -19,8 +19,6 @@ func main() {
 	}
 ```
 
-<br>
-![first_gif](https://github.com/fjadidi2001/fjadidi2001/blob/main/1md.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fateme-jadidi2001)
