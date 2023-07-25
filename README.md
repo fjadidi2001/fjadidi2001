@@ -1,7 +1,10 @@
 # 💫 About Me:
-> Hello, I am Fateme Jadidi <br>
-I try to be a good programmer(and sometimes you try but you fail)<br>
-![failure quotes](Graphic-for-Failure-Qootes.png)
+> Welcome to my GitHub page! I'm a dynamic backend developer with a strong foundation in computer science, passionate about Django and Go. Explore my repositories to see my clean and efficient coding style. Let's connect and build something amazing together!
+
+
+
+
+
 
 🔭  I’m interested in backend<br>
 🌱 I’m currently learning GO and Python(Django framework)<br>
