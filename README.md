@@ -1,16 +1,40 @@
 # 💫 About Me
 
-Hi there! 👋  
-I'm **Fateme Jadidi**, a passionate **Machine Learning Engineer** with a strong academic foundation in **Computer Science**.
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180"/>
 
-🔹 I specialize in **Python**, **Go**, and **Django**, and I'm deeply interested in building intelligent systems that solve real-world problems.  
-🔹 My work spans a wide range of applications, from **insurance risk modeling** and **medical imaging**, to **business intelligence dashboards** and **API development**.  
-🔹 I'm currently exploring **speech-based AI**, **diffusion models**, and **multimodal learning**.
+🎓 **Fateme Jadidi** — *Machine Learning Engineer & Backend Developer*  
+📍 Based in Iran | 🌐 Passionate about AI, backend systems, and solving real-world problems.
 
-I love to write clean, scalable, and efficient code—and I’m always learning something new to stay ahead in the evolving world of AI and backend systems.
+---
+
+🔧 **Core Expertise**  
+- 🐍 Python | 🦫 Go | ⚙️ Django | 🐘 PostgreSQL | 🐳 Docker  
+- 🤖 Machine Learning & Deep Learning (XGBoost, CNNs, GANs, Transformers, Diffusion Models)  
+- 🧠 AI for **insurance prediction**, **medical imaging**, and **speech-based systems**
+
+---
+
+🚀 **What I’m Currently Working On**  
+- 🎤 Speech-based AI & Emotion Recognition  
+- 🧬 Diffusion Models for Image Inpainting  
+- 🔀 Multimodal AI Research  
+- 🧠 Alzheimer’s early prediction using MRI, speech & handwriting data
+
+---
+
+💡 **What Drives Me**  
+I thrive on building clean, scalable, and impactful systems.  
+Whether it's building a robust API in Go, modeling insurance risk with TabNet, or diagnosing Alzheimer’s with deep learning—I’m all in.  
+Always learning. Always building. Always collaborating.
+
+---
+
+📬 **Let’s Connect & Collaborate**  
+Check out my projects below and feel free to reach out! I’m always open to new challenges and opportunities.
 
 > 💬 Let’s connect and collaborate!  
 > Check out my repositories for projects in **machine learning**, **deep learning**, **data science**, and **web backend development**.
+
 
 ```
 type UserProfile struct {
