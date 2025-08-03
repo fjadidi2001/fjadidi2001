@@ -1,46 +1,77 @@
 # 💫 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
-🎓 **Fateme Jadidi** — *Machine Learning Engineer | AI Researcher*  
-📍 💻 Focused on intelligent systems, data-driven insights, and real-world AI applications
+### 👋 Hi, I'm **Fateme Jadidi**
 
----
-
-🔍 **Who I Am**  
-I'm a passionate **Machine Learning Engineer** with a strong academic background in **Computer Science**.  
-My work spans research and development in areas like:
-
-- 🔎 **Insurance claim prediction** using hybrid models (XGBoost, TabNet, DL)
-- 🧠 **Medical imaging** for Alzheimer’s diagnosis with CNNs, GANs, and diffusion models
-- 📊 **Data science & EDA** with Python, Power BI, and SQL
-- 🗣️ **Speech-based AI**, emotion recognition & multimodal learning
+A dedicated **Machine Learning Engineer** with a deep interest in applied AI, multimodal modeling, and impactful data-driven systems.
 
 ---
 
-🧪 **Tech & Tools I Use**  
-- 🐍 Python (Pandas, Scikit-learn, PyTorch, TensorFlow)  
-- 🧠 Deep Learning: CNNs | LSTMs | Transformers | Diffusion Models  
-- 🧮 SQL (PostgreSQL, MySQL), Power BI, Docker, Git, Linux  
-- 🧰 Tools: Jupyter, Postman, Flask, Django (for rapid prototyping)
+### ⚙️ Technical Snapshot
+
+- 🐍 **Languages**: Python | C++ | Go | SQL  
+- 🧠 **ML/DL**: Scikit-learn, PyTorch, TensorFlow, XGBoost, TabNet  
+- 🎨 **Vision & Generative AI**: CNNs, GANs, U-Nets, Diffusion Models  
+- 📊 **Tools**: Docker, Git, Power BI, Postman, Jupyter, Linux  
+- ☁️ **Platforms**: AWS, Hugging Face, Google Colab  
+- 🧪 **Research Domains**:  
+  - Alzheimer's Early Diagnosis 🧠  
+  - Insurance Risk Modeling 📉  
+  - Speech-based AI & Emotion Recognition 🎤  
+  - Image Inpainting & Denoising 🧬
 
 ---
 
-🚀 **Currently Exploring**  
-- 🎤 Speech-based disease prediction & emotion recognition  
-- 🧬 Advanced diffusion models for generative AI  
-- 🤖 Multimodal AI & interpretable ML for healthcare and decision systems
+### 🔬 Projects in Action
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="120" align="right"/>
+
+- 🧠 **Medical Imaging for Alzheimer's Detection**  
+  Used CNNs, GANs, and diffusion models for advanced diagnostic imaging
+
+- 📉 **Insurance Claim Prediction**  
+  Designed hybrid ML frameworks combining XGBoost, TabNet & DL for telematics risk modeling
+
+- 🗣️ **Speech Emotion & Health Modeling**  
+  Researching SER and neurodegenerative markers using voice & language data
+
+- 🧾 **BI Dashboards**  
+  Built data visualizations and SQL pipelines using Power BI & Microsoft Dynamics
 
 ---
 
-💡 **What Drives Me**  
-I love turning complex data into meaningful insight through intelligent modeling.  
-Whether it's predicting risk, improving health diagnostics, or optimizing performance, I’m driven by the impact of applied AI.
+### 🔍 What I’m Exploring Now
+
+<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtqOW9oY2Y2emQ0OWFmeWdhNXYwdnNkNjdwYmZqbmFhdjV2dTcxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KzJkzjggfGN5Py6zz6/giphy.gif" width="140" />
+
+- 🎤 **Speech-based AI for disease detection**  
+- 🔁 **Multimodal learning systems**  
+- 🌀 **Generative models: diffusion & transformer fusion**  
+- 🧠 **XAI (Explainable AI)** for healthcare predictions
+
+<br clear="left"/>
 
 ---
 
-📫 **Let’s Connect & Collaborate**  
-Check out my projects below and feel free to reach out. I'm always open to research, collaborations, and innovative problem-solving.
+### 🎯 Mission
+
+I strive to **bridge the gap** between AI theory and impactful solutions — combining statistical rigor, deep learning, and clear insight for the real world.
+
+> 💡 Always learning. Always coding. Always solving meaningful problems.
+
+---
+
+### 🤝 Let’s Collaborate!
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180" align="right"/>
+
+📫 **Reach Me**  
+📧 [fjadidi2001@gmail.com](mailto:fjadidi2001@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/fateme-jadidi2001/)  
+💻 [GitHub Projects Below ↓](#)
+
+---
 
 
 ```
