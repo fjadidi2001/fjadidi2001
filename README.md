@@ -3,7 +3,6 @@
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180"/>
 
 🎓 **Fateme Jadidi** — *Machine Learning Engineer & Backend Developer*  
-📍 Based in Iran | 🌐 Passionate about AI, backend systems, and solving real-world problems.
 
 ---
 
