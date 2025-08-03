@@ -47,11 +47,13 @@ func main() {
 <br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fjadidi2001&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
-  
-</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fjadidi2001&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4" />
+</p>
+
 ---
-<br>
+
 
 
 ## 🌐 Socials:
