@@ -3,7 +3,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
 
 🎓 **Fateme Jadidi** — *Machine Learning Engineer | AI Researcher*  
-📍 Based in Iran | 💻 Focused on intelligent systems, data-driven insights, and real-world AI applications
+📍 💻 Focused on intelligent systems, data-driven insights, and real-world AI applications
 
 ---
 
