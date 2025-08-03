@@ -1,38 +1,46 @@
 # 💫 About Me
 
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
 
-🎓 **Fateme Jadidi** — *Machine Learning Engineer & Backend Developer*  
-
----
-
-🔧 **Core Expertise**  
-- 🐍 Python | 🦫 Go | ⚙️ Django | 🐘 PostgreSQL | 🐳 Docker  
-- 🤖 Machine Learning & Deep Learning (XGBoost, CNNs, GANs, Transformers, Diffusion Models)  
-- 🧠 AI for **insurance prediction**, **medical imaging**, and **speech-based systems**
+🎓 **Fateme Jadidi** — *Machine Learning Engineer | AI Researcher*  
+📍 Based in Iran | 💻 Focused on intelligent systems, data-driven insights, and real-world AI applications
 
 ---
 
-🚀 **What I’m Currently Working On**  
-- 🎤 Speech-based AI & Emotion Recognition  
-- 🧬 Diffusion Models for Image Inpainting  
-- 🔀 Multimodal AI Research  
-- 🧠 Alzheimer’s early prediction using MRI, speech & handwriting data
+🔍 **Who I Am**  
+I'm a passionate **Machine Learning Engineer** with a strong academic background in **Computer Science**.  
+My work spans research and development in areas like:
+
+- 🔎 **Insurance claim prediction** using hybrid models (XGBoost, TabNet, DL)
+- 🧠 **Medical imaging** for Alzheimer’s diagnosis with CNNs, GANs, and diffusion models
+- 📊 **Data science & EDA** with Python, Power BI, and SQL
+- 🗣️ **Speech-based AI**, emotion recognition & multimodal learning
+
+---
+
+🧪 **Tech & Tools I Use**  
+- 🐍 Python (Pandas, Scikit-learn, PyTorch, TensorFlow)  
+- 🧠 Deep Learning: CNNs | LSTMs | Transformers | Diffusion Models  
+- 🧮 SQL (PostgreSQL, MySQL), Power BI, Docker, Git, Linux  
+- 🧰 Tools: Jupyter, Postman, Flask, Django (for rapid prototyping)
+
+---
+
+🚀 **Currently Exploring**  
+- 🎤 Speech-based disease prediction & emotion recognition  
+- 🧬 Advanced diffusion models for generative AI  
+- 🤖 Multimodal AI & interpretable ML for healthcare and decision systems
 
 ---
 
 💡 **What Drives Me**  
-I thrive on building clean, scalable, and impactful systems.  
-Whether it's building a robust API in Go, modeling insurance risk with TabNet, or diagnosing Alzheimer’s with deep learning—I’m all in.  
-Always learning. Always building. Always collaborating.
+I love turning complex data into meaningful insight through intelligent modeling.  
+Whether it's predicting risk, improving health diagnostics, or optimizing performance, I’m driven by the impact of applied AI.
 
 ---
 
-📬 **Let’s Connect & Collaborate**  
-Check out my projects below and feel free to reach out! I’m always open to new challenges and opportunities.
-
-> 💬 Let’s connect and collaborate!  
-> Check out my repositories for projects in **machine learning**, **deep learning**, **data science**, and **web backend development**.
+📫 **Let’s Connect & Collaborate**  
+Check out my projects below and feel free to reach out. I'm always open to research, collaborations, and innovative problem-solving.
 
 
 ```
