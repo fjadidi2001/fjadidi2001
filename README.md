@@ -3,6 +3,7 @@
 
 >  I'm a passionate **Machine Learning Engineer** and **Data Scientist** with a foundation in computer science, specializing in AI, deep learning, and backend development with Django and Go. <br>  Currently pursuing M.Sc. in Computer Science with a focus on **Soft Computing and Artificial Intelligence**.
 <br>  Explore my repositories to see my work in ML models, data analysis, and clean coding practices.
+> 
 > **Let's connect and build something amazing together!**
 
 ```go
