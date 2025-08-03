@@ -1,9 +1,16 @@
-# 💫 About Me:
->🔭 Welcome to my GitHub page!
->
-<br>  I'm a dynamic backend developer with a foundation in computer science, passionate about Django and Go.
-<br>  Explore my repositories to see my clean and efficient coding style. **Let's connect and build something amazing together!**
+# 💫 About Me
 
+Hi there! 👋  
+I'm **Fateme Jadidi**, a passionate **Machine Learning Engineer** with a strong academic foundation in **Computer Science**.
+
+🔹 I specialize in **Python**, **Go**, and **Django**, and I'm deeply interested in building intelligent systems that solve real-world problems.  
+🔹 My work spans a wide range of applications, from **insurance risk modeling** and **medical imaging**, to **business intelligence dashboards** and **API development**.  
+🔹 I'm currently exploring **speech-based AI**, **diffusion models**, and **multimodal learning**.
+
+I love to write clean, scalable, and efficient code—and I’m always learning something new to stay ahead in the evolving world of AI and backend systems.
+
+> 💬 Let’s connect and collaborate!  
+> Check out my repositories for projects in **machine learning**, **deep learning**, **data science**, and **web backend development**.
 
 ```
 type UserProfile struct {
