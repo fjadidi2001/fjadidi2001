@@ -26,4 +26,3 @@ Just completed some cool courses on diffusion models and prompt engineering. Alw
 - 💼 [LinkedIn](https://linkedin.com/in/fateme-jadidi2001/)
 - 📧 fjadidi2001@gmail.com
 
-Thanks for stopping by! Feel free to check out my repos or reach out if you want to chat about AI/ML 😊
