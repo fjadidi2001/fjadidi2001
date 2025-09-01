@@ -3,7 +3,7 @@
 I'm Fateme, a Machine Learning engineer who loves building AI solutions for real problems. Currently working on some cool medical imaging projects.
 
 ### What I'm up to
-- 🧠 Building deep learning models for Alzheimer's prediction using MRI data from ADNI dataset - experimenting with CNNs and other architectures to detect early signs
+- 🧠 Building Deep learning models for Alzheimer's prediction using MRI data from ADNI dataset - experimenting with CNNs and other architectures to detect early signs
 - 🗣️ Working on speech-based Alzheimer's detection using the DementiaBank repository - it's fascinating how speech patterns can reveal cognitive changes
 - 📊 Creating insurance prediction models with TabNet and XGBoost
 - 👩‍🏫 Teaching ML/AI to 100+ students as a TA
