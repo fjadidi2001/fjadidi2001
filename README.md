@@ -13,7 +13,9 @@ I'm Fateme, a Machine Learning engineer who loves building AI solutions for real
 Python • TensorFlow • PyTorch • Django • Go • PostgreSQL • Docker 
 
 ### Recent learning
-Just completed some cool courses on diffusion models and prompt engineering. Always learning something new in AI!
+Just completed some cool courses on diffusion models and prompt engineering. 
+<br>
+Always learning something new in AI!
 
 ---
 
