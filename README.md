@@ -21,7 +21,6 @@ Always learning something new in AI!
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fjadidi2001&show_icons=true&theme=default&hide_border=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fjadidi2001&theme=minimal)
 
