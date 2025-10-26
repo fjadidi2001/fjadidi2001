@@ -21,7 +21,6 @@ Always learning something new in AI!
 
 <div align="center">
 
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fjadidi2001&theme=minimal)
 
 </div>
