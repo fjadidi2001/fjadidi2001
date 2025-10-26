@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Fateme, a Machine Learning engineer who loves building AI solutions for real problems. Currently working on some cool medical imaging projects.
+I'm Fateme, a Machine Learning Engineer passionate about developing AI solutions for real-world challenges. Currently, I'm focused on exciting medical imaging projects.
 
 ### What I'm up to
 - 🧠 Building Deep Learning Models for Alzheimer's prediction using MRI data from ADNI dataset - experimenting with CNNs and other architectures to detect early signs
