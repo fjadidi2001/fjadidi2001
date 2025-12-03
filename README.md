@@ -1,21 +1,30 @@
-## Hi there! 👋
+# Hi there! 👋
 
-I'm Fateme, a Machine Learning Engineer passionate about developing AI solutions for real-world challenges. Currently, I'm focused on exciting medical imaging projects.
+I'm Fateme, a Machine Learning Engineer passionate about developing AI solutions that tackle real-world challenges. My current focus is on medical imaging projects where AI can make a meaningful impact on healthcare.
 
-### What I'm up to
-- 🧠 Building Deep Learning Models for Alzheimer's prediction using MRI data from ADNI dataset - experimenting with CNNs and other architectures to detect early signs
-- 🗣️ Working on speech-based Alzheimer's detection using the DementiaBank repository - it's fascinating how speech patterns can reveal cognitive changes
-- 📊 Creating insurance prediction models with TabNet and XGBoost
-- 👩‍🏫 Teaching ML/AI to 100+ students as a TA
-- 🎓 Pursuing M.Sc. in Computer Science (AI focus)
+## 🔬 Current Projects
 
-### Languages and tools I work with
-Python • TensorFlow • PyTorch • Django • Go • PostgreSQL • Docker 
+**Medical AI Research**
+- Building deep learning models for early Alzheimer's prediction using MRI data from the ADNI dataset, exploring CNN architectures and attention mechanisms to detect subtle neurological patterns
+- Developing speech-based Alzheimer's detection systems using the DementiaBank repository, analyzing how speech patterns and linguistic markers reveal cognitive changes
 
-### Recent learning
-Just completed some cool courses on diffusion models and prompt engineering. 
-<br>
-Always learning something new in AI!
+**Other Work**
+- Creating insurance prediction models leveraging TabNet and XGBoost for improved accuracy
+- Teaching ML/AI fundamentals to 100+ students as a Teaching Assistant
+
+## 🎓 Education
+
+Pursuing M.Sc. in Computer Science with a focus on Artificial Intelligence
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:** Python • TensorFlow • PyTorch • Django • Go
+
+**Tools & Infrastructure:** PostgreSQL • Docker
+
+## 📚 Continuous Learning
+
+Recently completed courses on diffusion models and prompt engineering. Always exploring the latest developments in AI and machine learning.
 
 ---
 
@@ -25,7 +34,10 @@ Always learning something new in AI!
 
 </div>
 
-### Let's connect!
-- 💼 [LinkedIn](https://linkedin.com/in/fateme-jadidi2001/)
-- 📧 fjadidi2001@gmail.com
+---
 
+## 📫 Let's Connect
+
+💼 [LinkedIn](https://linkedin.com/in/fateme-jadidi2001/) • 📧 fjadidi2001@gmail.com
+
+*Open to collaboration on AI/ML projects, especially in healthcare and medical imaging.*
